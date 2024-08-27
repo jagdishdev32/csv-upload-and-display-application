@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <main className="container mx-auto px-4">
       <br />
-      <h1 className="text-4xl ">Table Section</h1>
+      <h1 className="text-4xl ">Table Page</h1>
 
       <br />
       <form
